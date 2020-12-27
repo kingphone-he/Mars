@@ -3,6 +3,60 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.18](https://github.com/max-team/Mars/compare/@marsjs/build@0.3.17...@marsjs/build@0.3.18) (2020-12-22)
+
+
+### Bug Fixes
+
+* **build:** 修复小程序编译mapState报错问题 ([28eb9da](https://github.com/max-team/Mars/commit/28eb9da))
+
+
+
+
+
+## [0.3.17](https://github.com/max-team/Mars/compare/@marsjs/build@0.3.16...@marsjs/build@0.3.17) (2020-12-16)
+
+
+### Bug Fixes
+
+* **build:** 修复H5下transitionend事件不触发问题 ([c528b4c](https://github.com/max-team/Mars/commit/c528b4c))
+* **build:** 修复H5下transitionend事件不触发问题 ([f3bf3a3](https://github.com/max-team/Mars/commit/f3bf3a3))
+* **build:** 修复小程序下下radio、checkbox组件无法添加slot问题 ([4492b7b](https://github.com/max-team/Mars/commit/4492b7b))
+
+
+
+
+
+## [0.3.16](https://github.com/max-team/Mars/compare/@marsjs/build@0.3.15...@marsjs/build@0.3.16) (2020-12-10)
+
+
+### Bug Fixes
+
+* **build:** 修复H5下生命周期函数不支持async语法 ([902c497](https://github.com/max-team/Mars/commit/902c497))
+
+
+
+
+
+### Bug Fixes
+* 修复H5下生命周期函数不支持async语法([902c497eb](https://github.com/max-team/Mars/commit/902c497eb7cb57dbdb27111b7312b7a832371c33))
+
+## [0.3.15](https://github.com/max-team/Mars/compare/@marsjs/build@0.3.14...@marsjs/build@0.3.15) (2020-11-06)
+
+
+### Bug Fixes
+
+* windows环境反斜杠导致的几个问题; 使用mixins小程序中无效的问题; ([#199](https://github.com/max-team/Mars/issues/199)) ([53e92a4](https://github.com/max-team/Mars/commit/53e92a4))
+
+
+### Features
+
+* **build & core:** support swan lifecycle onInit ([#198](https://github.com/max-team/Mars/issues/198)) ([bf86aad](https://github.com/max-team/Mars/commit/bf86aad))
+
+
+
+
+
 ## [0.3.14](https://github.com/max-team/Mars/compare/@marsjs/build@0.3.13...@marsjs/build@0.3.14) (2019-11-14)
 
 
